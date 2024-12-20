@@ -8,5 +8,5 @@ This project aims to implement a computer vision system for evaluating thin film
 
 ### Reference
 [1] https://github.com/killnice/yolov5-D435i  
-[2] https://github.com/ultralytics/yolov5
+[2] https://github.com/ultralytics/yolov5  
 [3] https://github.com/ac-rad/MVTrans?tab=readme-ov-file  
